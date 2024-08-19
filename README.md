@@ -14,11 +14,11 @@ I'm Jozsef Orban, a passionate software developer with a focus on Data Science a
 I use Anaconda Spider as IDE in case of python coding, and NetBeans or IntelliJ Idea for Java, EclipsPHP for PHP, but as ultimate tool I prefer Notepad++ with the appropriate plugins.
 I have some experience in automation (of software clicking :) ) with Autohotkey.
 
-📊 GitHub Stats: See below. Note that I was not forced to use Github for my previous work related projects as it was never expected but I made repos not only for safety but for other reasons as well. The repos are related to my hobbies or 
+📊 GitHub Stats: See below. Note that I was not forced to use Github for my previous work related projects as we used (Tortoise) SVN for version tracking. The repositories are mainly related to my hobbies or spontaneously emerged problems' solutions that I wanted to share. 
 
 🌟 Top Repositories:
 
-* **python_ETL_CM**: https://github.com/josesan77/python_ETL_CM - a repo related to the current work and also to my thesis in BSc. in Engineering Information Science (2024).
+* **python_ETL_CM**: https://github.com/josesan77/python_ETL_CM - a repo related to the current work and also to my thesis in BSc. in Engineering Computer Sciences (Gabor Dennis University, Budapest, 2024).
  
 * **AIandDS_practices_examples**: https://github.com/josesan77/AIandDS_practices_examples - a repo of a recently found free dataset and data analysis website at DataCamp. Data analysis results are presented in three different ways; Python, SQL and MS Power BI
   
