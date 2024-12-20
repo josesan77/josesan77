@@ -23,3 +23,5 @@ I have some experience in automation (of software clicking :) ) with Autohotkey.
 * **AIandDS_practices_examples**: https://github.com/josesan77/AIandDS_practices_examples - a repo of a recently found free dataset and data analysis website at DataCamp. Data analysis results are presented in three different ways; Python, SQL and MS Power BI
   
 * **Mindee_OCRDataExtract**: https://github.com/josesan77/Mindee_OCRDataExtract - a job related data extraction ML model, handling special parts of PDF files. OCR + ML using a trained model, reaching the service at Mindee with an API key
+
+* * **Machine Learning Projects**: https://github.com/josesan77/MLprojects - image/video based classification (recognition) ML models, using Google Teachable Machine and Lobe.ai models.
